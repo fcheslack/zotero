@@ -1,12 +1,12 @@
-<!ENTITY zotero.version "versie">
-<!ENTITY zotero.createdby "Gemaakt door:">
-<!ENTITY zotero.director "Director:">
-<!ENTITY zotero.directors "Directeuren:">
-<!ENTITY zotero.developers "Ontwikkelaars:">
-<!ENTITY zotero.alumni "Alumni:">
-<!ENTITY zotero.about.localizations "Vertalingen:">
-<!ENTITY zotero.about.additionalSoftware "Programmatuur van derden en standaarden:">
-<!ENTITY zotero.executiveProducer "Uitvoerend producent:">
-<!ENTITY zotero.thanks "Met speciale dank aan:">
-<!ENTITY zotero.about.close "Sluiten">
-<!ENTITY zotero.moreCreditsAndAcknowledgements "More Credits &amp; Acknowledgements">
+<!ENTITY zotero.version		"versie">
+<!ENTITY zotero.createdby		"Gemaakt door:">
+<!ENTITY zotero.director		"Directeur:">
+<!ENTITY zotero.directors		"Directeuren:">
+<!ENTITY zotero.developers		"Ontwikkelaars:">
+<!ENTITY zotero.alumni			"Alumni:">
+<!ENTITY zotero.about.localizations	"Vertalingen:">
+<!ENTITY zotero.about.additionalSoftware	"Programmatuur van derden en standaarden:">
+<!ENTITY zotero.executiveProducer		"Uitvoerend producent:">
+<!ENTITY zotero.thanks			"Met speciale dank aan:">
+<!ENTITY zotero.about.close	"Sluiten">
+<!ENTITY zotero.moreCreditsAndAcknowledgements "Meer dankbetuigingen">
