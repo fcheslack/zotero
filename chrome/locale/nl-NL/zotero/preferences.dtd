@@ -150,11 +150,11 @@
 <!ENTITY zotero.preferences.proxies.multiSite				"Multi-webpagina">
 <!ENTITY zotero.preferences.proxies.autoAssociate			"Nieuwe hosts automatisch associëren">
 <!ENTITY zotero.preferences.proxies.variables				"De volgende variabelen kunnen in het proxy-systeem worden gebruikt:">
-<!ENTITY zotero.preferences.proxies.h_variable				"&amp;#37;h - De originele hostnaam van de opgevraagde webpagina (b.v. www.zotero.org)">
-<!ENTITY zotero.preferences.proxies.p_variable				"&amp;#37;p - Het pad van de via de proxy geleide webpagina zonder begin-slash (b.v. about/index.html)">
-<!ENTITY zotero.preferences.proxies.d_variable				"&amp;#37;d - Het pad naar de map (b.v. about/)">
-<!ENTITY zotero.preferences.proxies.f_variable				"&amp;#37;f - De bestandsnaam (b.v. index.html)">
-<!ENTITY zotero.preferences.proxies.a_variable				"&amp;#37;a - Willekeurige tekenreeks">
+<!ENTITY zotero.preferences.proxies.h_variable				"&#37;h - De originele hostnaam van de opgevraagde webpagina (b.v. www.zotero.org)">
+<!ENTITY zotero.preferences.proxies.p_variable				"&#37;p - Het pad van de via de proxy geleide webpagina zonder begin-slash (b.v. about/index.html)">
+<!ENTITY zotero.preferences.proxies.d_variable				"&#37;d - Het pad naar de map (b.v. about/)">
+<!ENTITY zotero.preferences.proxies.f_variable				"&#37;f - De bestandsnaam (b.v. index.html)">
+<!ENTITY zotero.preferences.proxies.a_variable				"&#37;a - Willekeurige tekenreeks">
 
 <!ENTITY zotero.preferences.prefpane.advanced				"Geavanceerd">
 
